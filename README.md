@@ -17,6 +17,11 @@ Unityプロジェクトはアプリ用と動画用で別れています。ソー
 
 各UnityプロジェクトをUnityHubで読み込ませることで、必要なライブラリがインストールされて、開発環境が整います。UnityHubに読み込ませるには、UnityHubを開き右上のOpenからAdd project from discからプロジェクトのディレクトリを指定します。
 
+### ⚠2023年1月現在
+AirshowerApp, AirshowerForCaptureともに、容量の問題でAssetsをgit管理できていません。上記の手順で開発環境を構築する前に以下からそれぞれのAssetsディレクトリをダウンロードしてきて各プロジェクトに配置してください。
+
+https://drive.google.com/drive/u/0/folders/1UdgNTssq5zf-0myS0kL3Qsa2imMYeD3E
+
 ## このリポジトリを使う上での注意点
 
 ### git管理するディレクトリは絞る必要がある
