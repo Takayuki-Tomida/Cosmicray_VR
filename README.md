@@ -17,6 +17,8 @@ Unityプロジェクトはアプリ用と動画用で別れています。ソー
 
 各UnityプロジェクトをUnityHubで読み込ませることで、必要なライブラリがインストールされて、開発環境が整います。UnityHubに読み込ませるには、UnityHubを開き右上のOpenからAdd project from discからプロジェクトのディレクトリを指定します。
 
+<img src="https://github.com/Takayuki-Tomida/Cosmicray_VR/blob/main/doc/how_to_install_a_project.png" width=800/>
+
 ### ⚠2023年1月現在
 AirshowerApp, AirshowerForCaptureともに、容量の問題でAssetsをgit管理できていません。上記の手順で開発環境を構築する前に以下からそれぞれのAssetsディレクトリをダウンロードしてきて各プロジェクトに配置してください。
 
