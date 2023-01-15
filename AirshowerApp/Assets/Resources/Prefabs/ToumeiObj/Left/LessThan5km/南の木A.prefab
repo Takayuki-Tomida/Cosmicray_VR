@@ -1,0 +1,2411 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2599371245299522867
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5762857716140188853}
+  - component: {fileID: 7427840634140339367}
+  - component: {fileID: 5699789509360828166}
+  - component: {fileID: 7478973947286482916}
+  - component: {fileID: 446116316953573538}
+  - component: {fileID: 775986154299036600}
+  m_Layer: 12
+  m_Name: "\u5357\u306E\u6728A"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5762857716140188853
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2599371245299522867}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &7427840634140339367
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2599371245299522867}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8c3599fababf8f14fb89617b1cff4b01, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &5699789509360828166
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2599371245299522867}
+  m_Mesh: {fileID: 0}
+--- !u!114 &7478973947286482916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2599371245299522867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07358690fc80a8344aac51f0bd4dd767, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8531956342034727594, guid: 63055a176ca537945a71e97b5c25ffe3, type: 3}
+  vertex_num:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  distance: 20
+--- !u!114 &446116316953573538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2599371245299522867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01f2f587f00ea2e409a3b07a659dd4ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &775986154299036600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2599371245299522867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf791420a9501c42a5259b13455978d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vertices:
+  - {x: 18.341782, y: -0.74466616, z: 7.938798}
+  - {x: 18.35835, y: -0.6889335, z: 7.9054613}
+  - {x: 18.406946, y: -0.7635795, z: 7.7846823}
+  - {x: 18.400785, y: -0.6147122, z: 7.812374}
+  - {x: 18.423693, y: -0.74972504, z: 7.7463207}
+  - {x: 18.43579, y: -0.5915477, z: 7.7312193}
+  - {x: 18.44378, y: -0.7404822, z: 7.6992607}
+  - {x: 18.455133, y: -0.60561305, z: 7.6838307}
+  - {x: 18.465528, y: -0.7313121, z: 7.6478357}
+  - {x: 18.487043, y: -0.61034864, z: 7.6063604}
+  - {x: 18.444868, y: -0.70797175, z: 7.699714}
+  - {x: 18.51121, y: -0.629029, z: 7.545823}
+  - {x: 18.430042, y: -0.7218272, z: 7.7338533}
+  - {x: 18.53837, y: -0.65708965, z: 7.476433}
+  - {x: 18.462124, y: -0.72662354, z: 7.656499}
+  - {x: 18.558844, y: -0.7223283, z: 7.419405}
+  - {x: 18.465685, y: -0.7266795, z: 7.6479015}
+  - {x: 18.565277, y: -0.7362982, z: 7.4019127}
+  - {x: 18.454517, y: -0.7405286, z: 7.6734905}
+  - {x: 18.476194, y: -0.7313443, z: 7.622031}
+  - {x: 18.53985, y: -0.861843, z: 7.451927}
+  - {x: 18.695396, y: -0.86224115, z: 7.0525656}
+  - {x: 18.815771, y: -0.7412844, z: 6.739233}
+  - {x: 18.805967, y: -1.048257, z: 6.725826}
+  - {x: 17.94206, y: -0.75093347, z: 8.8044615}
+  - {x: 17.919878, y: -1.2453871, z: 8.793576}
+  - {x: 17.853313, y: -1.2674075, z: 8.924846}
+  - {x: 17.875565, y: -0.7826832, z: 8.93597}
+  - {x: 17.93924, y: -0.77404934, z: 8.8082075}
+  - {x: 18.805433, y: -0.95997477, z: 6.7404814}
+  - {x: 18.792068, y: -1.2200798, z: 6.735691}
+  - {x: 17.847412, y: -1.2627085, z: 8.937307}
+  - {x: 18.787779, y: -1.2664622, z: 6.7390966}
+  - {x: 18.797531, y: -1.150445, z: 6.7327003}
+  - {x: 18.538483, y: -0.852525, z: 7.4563956}
+  - {x: 18.405785, y: -0.8891014, z: 7.774096}
+  - {x: 18.562744, y: -0.7595425, z: 7.405915}
+  - {x: 18.550955, y: -0.69901973, z: 7.4413323}
+  - {x: 18.465528, y: -0.7313121, z: 7.6478357}
+  - {x: 18.503181, y: -0.94536924, z: 7.5325003}
+  - {x: 18.500414, y: -0.6941764, z: 7.56656}
+  - {x: 18.406538, y: -0.6659225, z: 7.7946086}
+  - {x: 18.451311, y: -0.82890624, z: 7.6721582}
+  - {x: 18.5072, y: -0.97326356, z: 7.519063}
+  - {x: 18.560812, y: -0.89913756, z: 7.395119}
+  - {x: 18.681477, y: -0.8389726, z: 7.0921464}
+  - {x: 18.64997, y: -0.79237634, z: 7.1798873}
+  - {x: 18.63917, y: -0.7178622, z: 7.2156806}
+  - {x: 18.632542, y: -0.661964, z: 7.2381067}
+  - {x: 18.683237, y: -0.58751535, z: 7.112765}
+  - {x: 18.70715, y: -0.7226244, z: 7.037071}
+  - {x: 18.635876, y: -0.7644104, z: 7.2194047}
+  - {x: 18.642504, y: -0.66669065, z: 7.2119756}
+  - {x: 18.703661, y: -0.62479675, z: 7.055685}
+  - {x: 18.678385, y: -0.5828782, z: 7.1258836}
+  - {x: 18.721241, y: -0.44773638, z: 7.02244}
+  - {x: 18.7192, y: -0.53633153, z: 7.0216746}
+  - {x: 18.740726, y: -0.45239007, z: 6.969974}
+  - {x: 18.718023, y: -0.5176501, z: 7.0262127}
+  - {x: 18.74732, y: -0.4477049, z: 6.9525223}
+  - {x: 18.75589, y: -0.42448044, z: 6.9308286}
+  - {x: 18.744549, y: -0.42447078, z: 6.9614434}
+  - {x: 18.75976, y: -0.47103, z: 6.9173365}
+  - {x: 18.784586, y: -0.5083882, z: 6.84696}
+  - {x: 18.745546, y: -0.58755004, z: 6.946891}
+  - {x: 18.698256, y: -0.5828899, z: 7.073578}
+  - {x: 18.74245, y: -0.44772908, z: 6.965638}
+  - {x: 18.774874, y: -0.51302767, z: 6.873203}
+  - {x: 18.745256, y: -0.70401955, z: 6.936838}
+  - {x: 18.668976, y: -0.7272449, z: 7.1372595}
+  - {x: 18.703821, y: -0.55963707, z: 7.0607285}
+  - {x: 18.7484, y: -0.5409816, z: 6.9429736}
+  - {x: 18.74479, y: -0.7645513, z: 6.931692}
+  - {x: 18.697136, y: -0.77383786, z: 7.0582056}
+  - {x: 18.711798, y: -0.56894714, z: 7.0388184}
+  - {x: 18.663336, y: -0.74584484, z: 7.150075}
+  - {x: 18.775324, y: -0.76458544, z: 6.848546}
+  - {x: 18.780226, y: -0.55498755, z: 6.855297}
+  - {x: 18.719488, y: -0.5875527, z: 7.016803}
+  - {x: 18.815931, y: -0.73665386, z: 6.7392917}
+  - {x: 18.787092, y: -0.5363166, z: 6.837945}
+  - {x: 18.76834, y: -0.5177035, z: 6.890678}
+  - {x: 18.786613, y: -0.5549866, z: 6.837773}
+  - {x: 18.778343, y: -0.85301685, z: 6.8298}
+  - {x: 18.7993, y: -0.6668132, z: 6.7927685}
+  - {x: 18.771885, y: -0.6248576, z: 6.8721104}
+  - {x: 18.747171, y: -0.7878358, z: 6.9226336}
+  - {x: 18.806961, y: -0.7226599, z: 6.765793}
+  - {x: 18.81121, y: -0.73666996, z: 6.752455}
+  - {x: 18.82353, y: -0.6481519, z: 6.727153}
+  - {x: 18.862581, y: -0.64348286, z: 6.6173244}
+  - {x: 18.864891, y: -0.7598555, z: 6.5983725}
+  - {x: 18.842018, y: -0.7505874, z: 6.664455}
+  - {x: 18.805826, y: -0.7552974, z: 6.7653847}
+  - {x: 18.93757, y: -0.75968665, z: 6.3868065}
+  - {x: 18.96542, y: -0.6339475, z: 6.3175125}
+  - {x: 18.77236, y: -0.6621496, z: 6.8673162}
+  - {x: 18.78142, y: -0.7273209, z: 6.835881}
+  - {x: 18.9126, y: -0.7458158, z: 6.46199}
+  - {x: 18.873783, y: -0.6294669, z: 6.5866632}
+  - {x: 18.947258, y: -0.41033617, z: 6.3900733}
+  - {x: 18.89609, y: -0.40577862, z: 6.5401177}
+  - {x: 18.880875, y: -0.4011286, z: 6.584198}
+  - {x: 18.88731, y: -0.52695733, z: 6.5568156}
+  - {x: 18.874462, y: -0.60618496, z: 6.5868993}
+  - {x: 18.885736, y: -0.3871465, z: 6.57108}
+  - {x: 18.913324, y: -0.37773383, z: 6.4918036}
+  - {x: 18.91547, y: -0.34052554, z: 6.4876084}
+  - {x: 18.916481, y: -0.27049595, z: 6.4879537}
+  - {x: 18.898987, y: -0.3264268, z: 6.5361857}
+  - {x: 18.896524, y: -0.38244334, z: 6.540266}
+  - {x: 18.929613, y: -0.30315083, z: 6.4480915}
+  - {x: 18.936317, y: -0.3544928, z: 6.425746}
+  - {x: 18.939425, y: -0.42903334, z: 6.41203}
+  - {x: 18.923376, y: -0.40578598, z: 6.460742}
+  - {x: 18.91786, y: -0.37782443, z: 6.4785666}
+  - {x: 18.925804, y: -0.35447684, z: 6.4566445}
+  - {x: 18.933987, y: -0.40103248, z: 6.4298778}
+  - {x: 18.913763, y: -0.43369925, z: 6.4870224}
+  - {x: 18.902092, y: -0.41044977, z: 6.5224576}
+  - {x: 18.916983, y: -0.34042743, z: 6.483197}
+  - {x: 18.928656, y: -0.36375213, z: 6.447764}
+  - {x: 18.932545, y: -0.47093913, z: 6.4293857}
+  - {x: 18.92983, y: -0.3823915, z: 6.4432387}
+  - {x: 18.940062, y: -0.39643988, z: 6.4122477}
+  - {x: 18.941725, y: -0.4616214, z: 6.402965}
+  - {x: 18.917805, y: -0.45703852, z: 6.4736223}
+  - {x: 18.913649, y: -0.3591534, z: 6.491914}
+  - {x: 18.93174, y: -0.35914, z: 6.438964}
+  - {x: 18.927338, y: -0.4336657, z: 6.447315}
+  - {x: 18.9465, y: -0.4475602, z: 6.3898177}
+  - {x: 18.949705, y: -0.5034967, z: 6.3761415}
+  - {x: 18.940346, y: -0.5781229, z: 6.39758}
+  - {x: 18.943317, y: -0.4569995, z: 6.398583}
+  - {x: 18.942875, y: -0.4056769, z: 6.403353}
+  - {x: 18.950247, y: -0.48024997, z: 6.376324}
+  - {x: 18.935497, y: -0.6898565, z: 6.40086}
+  - {x: 18.907698, y: -0.66666716, z: 6.484943}
+  - {x: 18.938837, y: -0.4570319, z: 6.411832}
+  - {x: 18.939722, y: -0.54552203, z: 6.40229}
+  - {x: 18.934006, y: -0.6898642, z: 6.405273}
+  - {x: 18.934874, y: -0.5594812, z: 6.415414}
+  - {x: 18.948437, y: -0.49422982, z: 6.3806334}
+  - {x: 18.950216, y: -0.6479633, z: 6.3615613}
+  - {x: 18.94176, y: -0.68057984, z: 6.3833017}
+  - {x: 18.949177, y: -0.46157107, z: 6.380882}
+  - {x: 18.914885, y: -0.45236754, z: 6.4824777}
+  - {x: 18.900988, y: -0.6387439, z: 6.50728}
+  - {x: 18.948874, y: -0.6433349, z: 6.366028}
+  - {x: 18.969973, y: -0.62927, z: 6.3042955}
+  - {x: 18.986923, y: -0.63635975, z: 6.2523417}
+  - {x: 18.96024, y: -0.64575154, z: 6.331852}
+  - {x: 18.971756, y: -0.49205276, z: 6.311128}
+  - {x: 18.989334, y: -0.4919842, z: 6.2580442}
+  - {x: 18.99316, y: -0.6224041, z: 6.2347813}
+  - {x: 18.995506, y: -0.6409977, z: 6.225744}
+  - {x: 18.982405, y: -0.6410256, z: 6.265571}
+  - {x: 19.024027, y: -0.6502213, z: 6.1370707}
+  - {x: 19.076635, y: -0.6359932, z: 5.9730644}
+  - {x: 18.987951, y: -0.6503469, z: 6.2477784}
+  - {x: 18.995422, y: -0.5944407, z: 6.230617}
+  - {x: 19.080029, y: -0.5661929, z: 5.9692483}
+  - {x: 19.029436, y: -0.5617753, z: 6.1290283}
+  - {x: 19.08481, y: -0.54289716, z: 5.956115}
+  - {x: 19.042, y: -0.4545519, z: 6.0988207}
+  - {x: 19.056053, y: -0.45915338, z: 6.054425}
+  - {x: 19.068802, y: -0.5150281, z: 6.0096254}
+  - {x: 19.069763, y: -0.5848262, z: 6.0001736}
+  - {x: 19.012556, y: -0.65022767, z: 6.1725135}
+  - {x: 19.045202, y: -0.55705756, z: 6.0802917}
+  - {x: 19.075104, y: -0.64067286, z: 5.977458}
+  - {x: 19.096754, y: -0.5614802, z: 5.915973}
+  - {x: 19.112576, y: -0.6311734, z: 5.8575687}
+  - {x: 19.000277, y: -0.6269837, z: 6.2125993}
+  - {x: 18.96389, y: -0.6224806, z: 6.323244}
+  - {x: 18.975378, y: -0.52464443, z: 6.2976}
+  - {x: 19.00908, y: -0.62233686, z: 6.186078}
+  - {x: 18.99316, y: -0.6224041, z: 6.2347813}
+  - {x: 18.968168, y: -0.62712413, z: 6.309936}
+  - {x: 18.940819, y: -0.6504802, z: 6.3892326}
+  - {x: 19.018726, y: -0.63627267, z: 6.154931}
+  - {x: 18.985493, y: -0.58511686, z: 6.261683}
+  - {x: 19.153889, y: -0.6448494, z: 5.7195044}
+  - {x: 19.081465, y: -0.510329, z: 5.9696965}
+  - {x: 19.128214, y: -0.5054831, z: 5.8185844}
+  - {x: 19.094702, y: -0.41252887, z: 5.934826}
+  - {x: 19.12929, y: -0.45887697, z: 5.8189106}
+  - {x: 19.102625, y: -0.35657007, z: 5.912919}
+  - {x: 19.126375, y: -0.40310964, z: 5.8326063}
+  - {x: 19.111244, y: -0.33331034, z: 5.886361}
+  - {x: 19.136112, y: -0.38903645, z: 5.80154}
+  - {x: 19.121368, y: -0.29593953, z: 5.8553987}
+  - {x: 19.122564, y: -0.38909754, z: 5.846038}
+  - {x: 19.125887, y: -0.26333347, z: 5.842187}
+  - {x: 19.124178, y: -0.37514573, z: 5.841666}
+  - {x: 19.13384, y: -0.2773284, z: 5.815434}
+  - {x: 19.124008, y: -0.38450292, z: 5.841614}
+  - {x: 19.138643, y: -0.3192044, z: 5.7974486}
+  - {x: 19.12282, y: -0.37511906, z: 5.846115}
+  - {x: 19.154066, y: -0.3610622, z: 5.7438173}
+  - {x: 19.123657, y: -0.4031606, z: 5.841507}
+  - {x: 19.157879, y: -0.4402428, z: 5.725547}
+  - {x: 19.126194, y: -0.4123635, z: 5.832552}
+  - {x: 19.160725, y: -0.49136862, z: 5.7118483}
+  - {x: 19.130434, y: -0.46822977, z: 5.814399}
+  - {x: 19.165714, y: -0.55646116, z: 5.6890893}
+  - {x: 19.11588, y: -0.51013935, z: 5.858581}
+  - {x: 19.171228, y: -0.6400732, z: 5.66165}
+  - {x: 19.135448, y: -0.6356883, z: 5.7819104}
+  - {x: 19.171518, y: -0.6726492, z: 5.6568913}
+  - {x: 19.187956, y: -0.6492888, z: 5.603637}
+  - {x: 19.182144, y: -0.626076, z: 5.626129}
+  - {x: 19.122581, y: -0.6590457, z: 5.8217297}
+  - {x: 19.124268, y: -0.6032326, z: 5.822243}
+  - {x: 19.093756, y: -0.66384906, z: 5.915046}
+  - {x: 19.108467, y: -0.58463544, z: 5.8757715}
+  - {x: 19.056345, y: -0.65933317, z: 6.034982}
+  - {x: 19.082031, y: -0.59412235, z: 5.960125}
+  - {x: 19.021864, y: -0.67348963, z: 6.141262}
+  - {x: 19.04405, y: -0.59889764, z: 6.079924}
+  - {x: 18.987661, y: -0.659671, z: 6.247683}
+  - {x: 19.004887, y: -0.6177128, z: 6.199408}
+  - {x: 18.958038, y: -0.6690198, z: 6.3360267}
+  - {x: 18.975512, y: -0.6270927, z: 6.2878256}
+  - {x: 18.996233, y: -0.66429704, z: 6.221081}
+  - {x: 18.970184, y: -0.6085183, z: 6.3056984}
+  - {x: 18.966581, y: -0.67834353, z: 6.309409}
+  - {x: 19.015982, y: -0.67817074, z: 6.1589375}
+  - {x: 19.005636, y: -0.6409696, z: 6.1947517}
+  - {x: 18.994635, y: -0.66896, z: 6.225458}
+  - {x: 18.990253, y: -0.6223435, z: 6.2436314}
+  - {x: 18.978165, y: -0.6829595, z: 6.273982}
+  - {x: 19.034698, y: -0.673398, z: 6.1013727}
+  - {x: 19.086712, y: -0.6685032, z: 5.937214}
+  - {x: 19.078257, y: -0.5801645, z: 5.973572}
+  - {x: 19.020727, y: -0.66421103, z: 6.145791}
+  - {x: 19.082706, y: -0.66392356, z: 5.9505887}
+  - {x: 19.09362, y: -0.575399, z: 5.9247437}
+  - {x: 19.138462, y: -0.6682242, z: 5.7682533}
+  - {x: 19.091295, y: -0.6545184, z: 5.924024}
+  - {x: 19.164202, y: -0.65410775, z: 5.683795}
+  - {x: 19.147005, y: -0.60770667, z: 5.746553}
+  - {x: 19.145008, y: -0.6727935, z: 5.7459526}
+  - {x: 19.138697, y: -0.6170501, z: 5.773175}
+  - {x: 19.126934, y: -0.64964926, z: 5.8084717}
+  - {x: 19.123722, y: -0.6218211, z: 5.8220763}
+  - {x: 19.119871, y: -0.6590517, z: 5.8306246}
+  - {x: 19.116657, y: -0.63113534, z: 5.8442316}
+  - {x: 19.105957, y: -0.66839504, z: 5.8750014}
+  - {x: 19.102053, y: -0.61728185, z: 5.893265}
+  - {x: 19.092232, y: -0.66850126, z: 5.919442}
+  - {x: 19.006737, y: -0.603755, z: 6.1951103}
+  - {x: 19.14754, y: -0.5891089, z: 5.746713}
+  - {x: 19.087835, y: -0.5847857, z: 5.942436}
+  - {x: 19.125784, y: -0.36113366, z: 5.837291}
+  - {x: 19.1356, y: -0.5845315, z: 5.7868104}
+  - {x: 19.103117, y: -0.58005744, z: 5.893595}
+  - {x: 18.9362, y: -0.6551436, z: 6.4024315}
+  - {x: 18.986498, y: -0.65029705, z: 6.252202}
+  - {x: 18.9557, y: -0.5992056, z: 6.349989}
+  - {x: 18.991732, y: -0.6689543, z: 6.2343125}
+  - {x: 18.931131, y: -0.67374843, z: 6.4154744}
+  - {x: 18.962137, y: -0.6318023, z: 6.327573}
+  - {x: 18.920286, y: -0.6365149, z: 6.451172}
+  - {x: 18.91303, y: -0.62724483, z: 6.4733195}
+  - {x: 18.909449, y: -0.6458425, z: 6.48195}
+  - {x: 18.943542, y: -0.42687604, z: 6.3999944}
+  - {x: 18.928963, y: -0.3196083, z: 6.449204}
+  - {x: 18.892666, y: -0.40360063, z: 6.5501385}
+  - {x: 18.921854, y: -0.5247142, z: 6.456633}
+  - {x: 18.911406, y: -0.52005184, z: 6.487548}
+  - {x: 18.915485, y: -0.6458502, z: 6.464307}
+  - {x: 18.868168, y: -0.69717044, z: 6.595919}
+  - {x: 18.850876, y: -0.70648575, z: 6.644197}
+  - {x: 18.780247, y: -0.7018905, z: 6.8417606}
+  - {x: 18.687317, y: -0.7111441, z: 7.0907288}
+  - {x: 18.70854, y: -0.48285308, z: 7.053891}
+  - {x: 18.72729, y: -0.45025712, z: 7.006132}
+  - {x: 18.73537, y: -0.5248776, z: 6.9792833}
+  - {x: 18.760063, y: -0.43628073, z: 6.918795}
+  - {x: 18.764162, y: -0.53883, z: 6.900429}
+  triangles: 00000000010000000200000001000000020000000300000002000000030000000400000003000000040000000500000004000000050000000600000005000000060000000700000006000000070000000800000007000000080000000900000008000000090000000a000000090000000a0000000b0000000a0000000b0000000c0000000b0000000c0000000d0000000c0000000d0000000e0000000d0000000e0000000f0000000e0000000f000000100000000f000000100000001100000010000000110000001200000011000000120000001300000012000000130000001400000013000000140000001500000014000000150000001600000015000000160000001700000016000000170000001800000017000000180000001900000018000000190000001a000000190000001a0000001b0000001a0000001b0000001c0000001b0000001c0000001d0000001c0000001d0000001e0000001d0000001e0000001f0000001e0000001f000000200000001f000000200000002100000020000000210000002200000021000000220000002300000022000000230000002400000023000000240000002500000024000000250000002600000025000000260000002700000026000000270000002800000027000000280000002900000028000000290000002a000000290000002a0000002b0000002a0000002b0000002c0000002b0000002c0000002d0000002c0000002d0000002e0000002d0000002e0000002f0000002e0000002f000000300000002f000000300000003100000030000000310000003200000031000000320000003300000032000000330000003400000033000000340000003500000034000000350000003600000035000000360000003700000036000000370000003800000037000000380000003900000038000000390000003a000000390000003a0000003b0000003a0000003b0000003c0000003b0000003c0000003d0000003c0000003d0000003e0000003d0000003e0000003f0000003e0000003f000000400000003f000000400000004100000040000000410000004200000041000000420000004300000042000000430000004400000043000000440000004500000044000000450000004600000045000000460000004700000046000000470000004800000047000000480000004900000048000000490000004a000000490000004a0000004b0000004a0000004b0000004c0000004b0000004c0000004d0000004c0000004d0000004e0000004d0000004e0000004f0000004e0000004f000000500000004f000000500000005100000050000000510000005200000051000000520000005300000052000000530000005400000053000000540000005500000054000000550000005600000055000000560000005700000056000000570000005800000057000000580000005900000058000000590000005a000000590000005a0000005b0000005a0000005b0000005c0000005b0000005c0000005d0000005c0000005d0000005e0000005d0000005e0000005f0000005e0000005f000000600000005f000000600000006100000060000000610000006200000061000000620000006300000062000000630000006400000063000000640000006500000064000000650000006600000065000000660000006700000066000000670000006800000067000000680000006900000068000000690000006a000000690000006a0000006b0000006a0000006b0000006c0000006b0000006c0000006d0000006c0000006d0000006e0000006d0000006e0000006f0000006e0000006f000000700000006f000000700000007100000070000000710000007200000071000000720000007300000072000000730000007400000073000000740000007500000074000000750000007600000075000000760000007700000076000000770000007800000077000000780000007900000078000000790000007a000000790000007a0000007b0000007a0000007b0000007c0000007b0000007c0000007d0000007c0000007d0000007e0000007d0000007e0000007f0000007e0000007f000000800000007f000000800000008100000080000000810000008200000081000000820000008300000082000000830000008400000083000000840000008500000084000000850000008600000085000000860000008700000086000000870000008800000087000000880000008900000088000000890000008a000000890000008a0000008b0000008a0000008b0000008c0000008b0000008c0000008d0000008c0000008d0000008e0000008d0000008e0000008f0000008e0000008f000000900000008f000000900000009100000090000000910000009200000091000000920000009300000092000000930000009400000093000000940000009500000094000000950000009600000095000000960000009700000096000000970000009800000097000000980000009900000098000000990000009a000000990000009a0000009b0000009a0000009b0000009c0000009b0000009c0000009d0000009c0000009d0000009e0000009d0000009e0000009f0000009e0000009f000000a00000009f000000a0000000a1000000a0000000a1000000a2000000a1000000a2000000a3000000a2000000a3000000a4000000a3000000a4000000a5000000a4000000a5000000a6000000a5000000a6000000a7000000a6000000a7000000a8000000a7000000a8000000a9000000a8000000a9000000aa000000a9000000aa000000ab000000aa000000ab000000ac000000ab000000ac000000ad000000ac000000ad000000ae000000ad000000ae000000af000000ae000000af000000b0000000af000000b0000000b1000000b0000000b1000000b2000000b1000000b2000000b3000000b2000000b3000000b4000000b3000000b4000000b5000000b4000000b5000000b6000000b5000000b6000000b7000000b6000000b7000000b8000000b7000000b8000000b9000000b8000000b9000000ba000000b9000000ba000000bb000000ba000000bb000000bc000000bb000000bc000000bd000000bc000000bd000000be000000bd000000be000000bf000000be000000bf000000c0000000bf000000c0000000c1000000c0000000c1000000c2000000c1000000c2000000c3000000c2000000c3000000c4000000c3000000c4000000c5000000c4000000c5000000c6000000c5000000c6000000c7000000c6000000c7000000c8000000c7000000c8000000c9000000c8000000c9000000ca000000c9000000ca000000cb000000ca000000cb000000cc000000cb000000cc000000cd000000cc000000cd000000ce000000cd000000ce000000cf000000ce000000cf000000d0000000cf000000d0000000d1000000d0000000d1000000d2000000d1000000d2000000d3000000d2000000d3000000d4000000d3000000d4000000d5000000d4000000d5000000d6000000d5000000d6000000d7000000d6000000d7000000d8000000d7000000d8000000d9000000d8000000d9000000da000000d9000000da000000db000000da000000db000000dc000000db000000dc000000dd000000dc000000dd000000de000000dd000000de000000df000000de000000df000000e0000000df000000e0000000e1000000e0000000e1000000e2000000e1000000e2000000e3000000e2000000e3000000e4000000e3000000e4000000e5000000e4000000e5000000e6000000e5000000e6000000e7000000e6000000e7000000e8000000e7000000e8000000e9000000e8000000e9000000ea000000e9000000ea000000eb000000ea000000eb000000ec000000eb000000ec000000ed000000ec000000ed000000ee000000ed000000ee000000ef000000ee000000ef000000f0000000ef000000f0000000f1000000f0000000f1000000f2000000f1000000f2000000f3000000f2000000f3000000f4000000f3000000f4000000f5000000f4000000f5000000f6000000f5000000f6000000f7000000f6000000f7000000f8000000f7000000f8000000f9000000f8000000f9000000fa000000f9000000fa000000fb000000fa000000fb000000fc000000fb000000fc000000fd000000fc000000fd000000fe000000fd000000fe000000ff000000fe000000ff00000000010000ff000000000100000101000000010000010100000201000001010000020100000301000002010000030100000401000003010000040100000501000004010000050100000601000005010000060100000701000006010000070100000801000007010000080100000901000008010000090100000a010000090100000a0100000b0100000a0100000b0100000c0100000b0100000c0100000d0100000c0100000d0100000e0100000d0100000e0100000f0100000e0100000f010000100100000f0100001001000011010000100100001101000012010000110100001201000013010000120100001301000014010000130100001401000015010000140100001501000016010000150100001601000017010000160100001701000018010000
+  newdistance: 20
