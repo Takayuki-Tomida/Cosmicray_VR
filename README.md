@@ -19,11 +19,6 @@ Unityプロジェクトはアプリ用と動画用で別れています。ソー
 
 <img src="https://github.com/Takayuki-Tomida/Cosmicray_VR/blob/main/doc/how_to_install_a_project.png" width=800/>
 
-### ⚠2023年1月現在
-AirshowerApp, AirshowerForCaptureともに、容量の問題でAssetsをgit管理できていません。上記の手順で開発環境を構築する前に以下からそれぞれのAssetsディレクトリをダウンロードしてきて各プロジェクトに配置してください。
-
-https://drive.google.com/drive/u/0/folders/1UdgNTssq5zf-0myS0kL3Qsa2imMYeD3E
-
 ## このリポジトリを使う上での注意点
 
 ### git管理するディレクトリは絞る必要がある
